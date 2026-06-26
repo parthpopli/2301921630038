@@ -8,7 +8,7 @@ const BASE_URL = 'http://4.224.186.213/evaluation-service';
 const REGISTRATION_PAYLOAD = {
     email: "aids23068@glbitm.ac.in", 
     name: "Parth popli",              
-    mobileNo: "9020959277",            
+    mobileNo: "8920959277",            
     githubUsername: "parthpopli",   
     rollNo: "2301921630038",        
     accessCode: "xxkJnk" 
